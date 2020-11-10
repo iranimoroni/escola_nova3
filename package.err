@@ -8,16 +8,9 @@
     "start": "node serv.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/iranimoroni/escola_nova.git"
-  },
   "author": "Moroni Pedrosa",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/iranimoroni/escola_nova/issues"
+  "license": "ISC"
   },
-  "homepage": "https://github.com/iranimoroni/escola_nova#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "bootstrap": "^4.5.2",
